@@ -1,0 +1,14 @@
+EMBER EXTEND JSON WEB API'S
+-Ember CLI is backend agnostic meaning it doesn't know or care where data comes
+ from or is stored
+-API is short application programming interface.
+
+ANATOMY OF AN API GET request
+-When a web API GET request is made, most of the necessary
+ information is included in the URL
+ -The ? in the URL is called a query string. Information following the ? is not part of the URL path but instead represent
+  the query parameters being sent with the request.
+-Parameters in the query string are separated by the & symbol.
+-JSON-formatted APIs to gather data for our Ember models in our applications.
+
+**JSON pretty print. web site to make web api's pretty .
